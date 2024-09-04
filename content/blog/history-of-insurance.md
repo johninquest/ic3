@@ -1,8 +1,10 @@
----
+--- 
+slug: "history-of-insurance"
 title: "A Brief History of Insurance"
-## date: 2023-05-01
+date: 2023-05-01
 ## reading_time: 3 mins 
-draft: false
+draft: false 
+weight: 4
 ---
 
 The origins of the insurance business can be traced back to ancient times when people used various methods to spread and reduce risks. One of the earliest examples of a written insurance policy was found on an ancient Babylonian monument with the code of King Hammurabi carved into it. The code stipulated that a debtor did not have to pay back their loans if some personal catastrophe made it impossible.
