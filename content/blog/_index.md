@@ -6,7 +6,7 @@ draft: false
 weight: 3
 ---
 
-### Welcome to our blog
+### Welcome to the Insurtent Blog
 
 
 <!-- - [A Brief History of Insurance](./history-of-insurance)  -->
