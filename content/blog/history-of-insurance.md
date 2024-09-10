@@ -4,7 +4,7 @@ title: "A Brief History of Insurance"
 date: 2023-05-01
 ## reading_time: 3 mins 
 draft: false 
-weight: 4
+weight: 100
 ---
 
 The concept of insurance, at its core, is about risk management and the distribution of risk among a group of individuals or entities. This practice has roots that stretch back to ancient civilizations and has evolved significantly over time.
