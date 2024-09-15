@@ -5,7 +5,8 @@ draft: false
 weight: 97
 --- 
 
-<!-- ### Key Roles Within an Insurance Company: A Comprehensive Guide -->
+<!-- ### Key Roles Within an Insurance Company: A Comprehensive Guide --> 
+*6 mins read*
 
 Insurance companies are complex organizations with a variety of specialized roles. This guide provides an in-depth overview of the main positions you'll find within a typical insurance company, from client-facing jobs to behind-the-scenes experts. Whether you're considering a career in insurance or looking to understand how these companies operate, this breakdown will give you insight into the various functions that keep an insurance company running.
 

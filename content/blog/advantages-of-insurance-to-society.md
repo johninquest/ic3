@@ -6,6 +6,8 @@ draft: false
 weight: 99
 --- 
 
+*2 mins read*
+
 Insurance has **many advantages to society**, as it helps to protect the wealth, health, and well-being of individuals and communities. Some of the advantages of insurance to society are:
 
 * It **protects society's wealth** by providing compensation for losses caused by natural disasters, accidents, theft, fire, and other risks. This reduces the burden on the government and the taxpayers to provide relief and recovery funds[^1].
