@@ -1,12 +1,11 @@
 ---
+slug: "advantages-of-insurance-to-society"
 title: "Advantages of Insurance to Society"
 date:  2023-05-03 
 readtime: 2
 draft: false 
 weight: 99
 --- 
-
-*2 mins read*
 
 Insurance has **many advantages to society**, as it helps to protect the wealth, health, and well-being of individuals and communities. Some of the advantages of insurance to society are:
 

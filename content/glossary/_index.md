@@ -1,7 +1,8 @@
 ---
 title: "Glossary"
 date: 2024-09-09T18:16:10+02:00
-draft: false
+draft: false 
+tags: [insurance glossary, insurance terms, insurance terminology, insurance definitions]
 --- 
 
 ### Glossary of Insurance Terms

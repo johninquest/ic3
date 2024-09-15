@@ -6,8 +6,6 @@ draft: false
 weight: 100
 --- 
 
-*3 mins read*
-
 The concept of insurance, at its core, is about risk management and the distribution of risk among a group of individuals or entities. This practice has roots that stretch back to ancient civilizations and has evolved significantly over time.
 
 ## Ancient Origins

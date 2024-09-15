@@ -1,4 +1,5 @@
 ---
+slug: "how-interest-rate-increase-affects-insurance-companies"
 title: "How Interest Rate Increase Affects Insurance Companies"
 date: 2023-05-05
 draft: false 
@@ -6,7 +7,6 @@ weight: 98
 --- 
 
 <!-- # How Interest Rate Increases can affect Insurance Companies -->
-*2 mins read*
 
 **An increase in interest rates by central banks** can have a significant impact on insurance companies, their business model, and customers. Here are a few ways this could happen:
 
