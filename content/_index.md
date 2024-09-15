@@ -7,7 +7,7 @@ weight: 1
 
 <div style="text-align: center;">
 
-**The Content Platform for Insurance Professionals & Students**
+**Content for Insurance Professionals & Students**
 
 </div>
 

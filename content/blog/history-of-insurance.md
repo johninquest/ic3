@@ -3,7 +3,8 @@ slug: "history-of-insurance"
 title: "A Brief History of Insurance"
 date: 2023-05-01
 draft: false 
-weight: 100
+weight: 100 
+tags: [history of insurance, evolution of insurance industry] 
 --- 
 
 The concept of insurance, at its core, is about risk management and the distribution of risk among a group of individuals or entities. This practice has roots that stretch back to ancient civilizations and has evolved significantly over time.

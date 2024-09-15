@@ -1,7 +1,7 @@
 --- 
 slug: "financial-literacy-insurance-benefits"
 title: "Financial Literacy and Its Benefits to Insurers and Their Customers"
-date: 2024-05-22T11:55:05+02:00
+date: 2023-05-22T11:55:05+02:00
 draft: false 
 weight: 96
 --- 
