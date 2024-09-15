@@ -49,7 +49,13 @@ A claim adjuster, also known as an insurance adjuster or claims examiner, is res
 A claimant is the person who files the claim. In most cases, this is the policyholder.
 
 #### Combined ratio:
-The combined ratio is used in evaluating the profitability and financial health of an insurance company. It is therefore considered one of the most comprehensive and important performance measures of an insurance company. Besides insurers, there are other industry stakeholders that use the combined ratio. Regulators use it to perform regulatory oversight. Investors use it to determine if an insurance company is managing its risk appropriately and can pay claims. It is calculated as follows; Combined Ratio = ((Incurred Losses + Expenses) / Earned Premium)*100.
+The combined ratio is used in evaluating the profitability and financial health of an insurance company. It is therefore considered one of the most comprehensive and important performance measures of an insurance company. Besides insurers, there are other industry stakeholders that use the combined ratio. Regulators use it to perform regulatory oversight. Investors use it to determine if an insurance company is managing its risk appropriately and can pay claims. It is calculated as follows;<br>
+Combined Ratio = ((Incurred Losses + Expenses) / Earned Premium) * 100. 
+<br> 
+{{< math display >}}
+\text{Combined Ratio} = \frac{\text{Incurred Losses} + \text{Expenses}}{\text{Earned Premium}} \times 100
+{{< /math >}}
+
 
 #### Commission:
 In the domain of insurance, a commission refers to the compensation or payment that an insurance agent or broker receives for selling an insurance policy or generating business for an insurance company. It serves as a form of reward for the agent's services in facilitating the sale and ongoing servicing of insurance policies.
