@@ -3,7 +3,8 @@ slug: "key-insurance-roles"
 title: "Key Roles Within an Insurance Company: A Comprehensive Overview"
 date: 2023-05-15T11:34:05+02:00
 draft: false 
-weight: 97
+weight: 97 
+tags: [insurance roles, insurance jobs] 
 --- 
 
 <!-- ### Key Roles Within an Insurance Company: A Comprehensive Guide --> 

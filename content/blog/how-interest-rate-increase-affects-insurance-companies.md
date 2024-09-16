@@ -4,7 +4,7 @@ title: "How Interest Rate Increase Affects Insurance Companies"
 date: 2023-05-05
 draft: false 
 weight: 98 
-tags: [interest rates and insurance, impact of interest iates on insurance]
+tags: [nsurance, interest rates, impact]
 --- 
 
 <!-- # How Interest Rate Increases can affect Insurance Companies -->

@@ -3,7 +3,8 @@ slug: "insurance-industry-success-guide-for-newbies"
 title: "Insurance Industry Success Guide for Newbies"
 date: 2023-06-05T13:05:13+02:00
 draft: false
-weight: 94
+weight: 94 
+tags: [insurance, success guide, newbies] 
 --- 
 
 <!-- # Your Path to Success in the Insurance Industry: Essential Know-How for Newbies -->
