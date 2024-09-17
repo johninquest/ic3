@@ -1,8 +1,11 @@
 ---
-title: "Books"
-date: 2024-09-10T07:15:53+02:00
-draft: false
+title: "Resources"
+date: 2024-09-17T13:28:15+02:00
+draft: false 
+tags: [insurance, books, publications] 
 --- 
+
+# Books 
 
 # Essential Books for Insurance Professionals
 
@@ -55,3 +58,32 @@ draft: false
     - Advanced: Requires strong mathematical background, specific to actuarial profession. 
 
 - Note: To purchase these books, please search for their titles on your preferred book retailer's website.
+
+# Publications 
+
+- [McKinsey | Insights on insurance](https://www.mckinsey.com/industries/financial-services/our-insights/insurance)
+- [Insurance Europe](https://www.insuranceeurope.eu/)
+- [Insurance Post](https://www.postonline.co.uk)
+- [The Actuary](https://www.theactuary.com/)
+- [Insurance ERM](https://www.insuranceerm.com/)
+- [Risk Management Magazine](http://www.rmmagazine.com/)
+- [Insurance Journal](https://www.insurancejournal.com/)
+- [Asia Insurance Review](https://www.asiainsurancereview.com/)
+- [Insurance Asia News](https://insuranceasianews.com/)
+- [African Insurance Organization (AIO)](https://african-insurance.org/)
+- [African Reinsurance Corporation (Africa Re)](https://www.africa-re.com/)
+- [Insurance | EY](https://www.ey.com/en_gl/insurance)
+- [Insurance | Deloitte](https://www.deloitte.com/global/en/Industries/insurance/about.html)
+- [Insurance | KPMG](https://kpmg.com/xx/en/home/industries/financial-services/insurance.html)
+- [Insurance | Investopedia](https://www.investopedia.com/insurance-4427716)
+- [Insurance | Financial Times](https://www.ft.com/insurance)
+- [Insuropedia](http://www.insuropedia.com/)
+- [Insuranceopedia](https://www.insuranceopedia.com/)
+- [Reinsurance News](https://www.reinsurancene.ws/)
+- [Artemis](https://www.artemis.bm/)
+- [AM Best](https://web.ambest.com/home)
+- [Insurance Library](https://www.insurancelibrary.com/)
+- [Insurance Times](https://www.insurancetimes.co.uk/)
+
+
+
