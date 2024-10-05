@@ -95,7 +95,7 @@ tags: [insurance glossary, insurance terms, insurance terminology, insurance def
 
 - **GDPR (General Data Protection Regulation)**: EU regulation on data protection and privacy that affects how insurers handle customer data.
 
-- **Green Card**: An international certificate of insurance that guarantees that the visiting motorist has the necessary minimum motor insurance cover for driving in the country visited.
+- **Green Card**: An international certificate of insurance that guarantees that the visiting motorist has the necessary minimum motor insurance cover for driving in the country visited. It is also widely known as the _International Motor Insurance Card_
 
 - **Indemnity**: The principle that insurance aims to restore the policyholder to the same financial position they were in before the covered loss occurred.
 
@@ -119,7 +119,7 @@ tags: [insurance glossary, insurance terms, insurance terminology, insurance def
 
 - **Non-life Insurance**: Also known as general insurance, it includes all insurance that is not determined to be life insurance. Common in European insurance categorization.
 
-- **Passporting**: The exercise by a financial services firm of its right to carry on business in an EEA state other than its home state on the basis of authorization in its home state.
+<!-- - **Passporting**: The exercise by a financial services firm of its right to carry on business in an EEA state other than its home state on the basis of authorization in its home state. -->
 
 - **Peril**: The cause of a possible loss in an insurance policy, such as fire, theft, or windstorm.
 
