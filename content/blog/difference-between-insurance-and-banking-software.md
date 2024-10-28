@@ -2,7 +2,7 @@
 title: "Difference Between Insurance and Banking Software"
 date: 2024-10-06T01:06:47+02:00
 draft: false 
-weight: 1 
+weight: 8 
 # description: "" 
 tags: [insurance software, banking software, difference] 
 --- 

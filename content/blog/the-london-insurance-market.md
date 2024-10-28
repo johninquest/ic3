@@ -3,7 +3,7 @@ slug: "the-london-insurance-market"
 title: "The London Insurance Market"
 date: 2024-09-15T15:04:54+02:00
 draft: false
-weight: 2 
+weight: 13 
 # description: "" 
 tags: [london insurance market, london market, lloyds market] 
 --- 
